@@ -24,6 +24,10 @@ https://github.com/ndrplz/ConvLSTM_pytorch
 
 
 
+# ~ ~ rainymotion
 
+Python library for radar-based precipitation nowcasting based on optical flow techniques
+
+https://github.com/hydrogo/rainymotion
 
 
