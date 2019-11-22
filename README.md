@@ -1,5 +1,9 @@
 # others-repository
 
+# Reinforcement Learning for Relation Classification from Noisy Data(TensorFlow) 特征选择器相关
+
+https://github.com/xuyanfu/TensorFlow_RLRE
+
 
 # Deformable-Convolutional NN
 https://github.com/msracver/Deformable-ConvNets
