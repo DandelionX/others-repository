@@ -1,5 +1,12 @@
 # others-repository
 
+
+# 机器学习/人工智能知识树
+
+https://github.com/apachecn/ai-roadmap/tree/master/v1.0
+
+
+
 # Reinforcement Learning for Relation Classification from Noisy Data(TensorFlow) 特征选择器相关
 
 https://github.com/xuyanfu/TensorFlow_RLRE
