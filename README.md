@@ -1,5 +1,10 @@
 # others-repository
 
+
+# Attention
+https://github.com/jadore801120/attention-is-all-you-need-pytorch
+
+
 # GAN pytorch
 https://github.com/eriklindernoren/PyTorch-GAN
 
@@ -16,6 +21,7 @@ https://github.com/pangeo-data/WeatherBench
 
 
 # 机器学习/人工智能知识树
+
 
 https://github.com/apachecn/ai-roadmap/tree/master/v1.0
 
