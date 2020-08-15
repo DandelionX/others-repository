@@ -1,5 +1,8 @@
 # others-repository
 
+# GAN pytorch
+https://github.com/eriklindernoren/PyTorch-GAN
+
 
 # GCN pytorch
 https://github.com/tkipf/pygcn
