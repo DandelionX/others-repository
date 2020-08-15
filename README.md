@@ -1,5 +1,10 @@
 # others-repository
 
+
+# GCN pytorch
+https://github.com/tkipf/pygcn
+
+
 # Weather Bench
 
 https://github.com/pangeo-data/WeatherBench
