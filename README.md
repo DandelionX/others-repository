@@ -1,15 +1,23 @@
 # others-repository
 
+# awesome_deep_learning_interpretability
+
+https://github.com/oneTaken/awesome_deep_learning_interpretability
+
+https://github.com/handong1587/handong1587.github.io/tree/master/_posts/deep_learning
 
 # Attention
+
 https://github.com/jadore801120/attention-is-all-you-need-pytorch
 
 
 # GAN pytorch
+
 https://github.com/eriklindernoren/PyTorch-GAN
 
 
 # GCN pytorch
+
 https://github.com/tkipf/pygcn
 
 
