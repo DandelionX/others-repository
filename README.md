@@ -1,5 +1,12 @@
 # others-repository
 
+
+# 计算一些环流指数的python程序：
+
+https://github.com/sharppy/SHARPpy
+
+
+
 # awesome_deep_learning_interpretability
 
 https://github.com/oneTaken/awesome_deep_learning_interpretability
